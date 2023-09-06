@@ -27,4 +27,7 @@ Test signed url(need cookie):
 https://dthl9qxmc6c3r.cloudfront.net/playback.m3u8
 Cookie="CloudFront-Key-Pair-Id=KLF6VW5TBETCE;CloudFront-Policy=eyJTdGF0ZW1lbnQiOlt7IlJlc291cmNlIjoiaHR0cHM6Ly9kdGhsOXF4bWM2YzNyLmNsb3VkZnJvbnQubmV0LyoiLCJDb25kaXRpb24iOnsiRGF0ZUxlc3NUaGFuIjp7IkFXUzpFcG9jaFRpbWUiOjE2NzEyNjQyMzl9fX1dfQ__;CloudFront-Signature=GfcTLRv~H0JH~-V0PIatS0hIX7YV5fQ8S-CIl5Cbz4cbm30QgbUDBmEu~4H4Hs7ywAR9TDzJfp~uJtbSXGZ0fJGdjfne~ReZ7EOjuZsFVhZcd1Gzt6-r5znEu~S8oKKFo-GI9iAVvwzn~Q2vkr9iNqKyvADFpydhNc06LOYwxL6vEMAfCVXyAhFdd70VKILxWnAP-JVrBZH-iSYfxe3goPFJFqXB1owL1v6mwK1SQhIf64kTBZfeIoBYoY9QBhmzLdPlesCjBuIX11H0XmtPquUJICTZmyUPLkg4sfHaMPw4xaQbmjP2y8mqgkF7xLz2up7HnFaUMKSRen3aluuDPw__"
 
+![](https://github.com/jayliu005/HLSSample/blob/master/app/src/main/assets/hlssample_snapshot.png)
+![](https://github.com/jayliu005/HLSSample/blob/master/app/src/main/assets/hlssample_snapshot_controller.png)
+
 * Write on 2021/12
