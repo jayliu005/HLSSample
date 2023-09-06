@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:keepScreenOn="true"
+    android:orientation="vertical">
+
+    <com.google.android.exoplayer2.ui.StyledPlayerView
+        android:id="@+id/player_view"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:background="@android:color/black"
+        app:repeat_toggle_modes="all|one" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <EditText
+            android:id="@+id/input_url"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:hint="Input url" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="48dp"
+            android:text="Play"
+            android:onClick="onClickPlaybackByMediaSource"/>
+
+    </LinearLayout>
+
+</LinearLayout>
